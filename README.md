@@ -4,6 +4,8 @@ About me
 что я комфортно себя чувствую выполняя основные функции тестировщика. В частности мне нравится проводить доскональную проверку, и я не боюсь выполнения большого кол-ва задач. 
 Далее я прошел курс на Stepik, и получил сертификат о прохождении курса, для улучшения своих навыков и понимания специфики тестирования.
 
+---
+
 ## Languages and Tools
 
 ### 📁 Тестовая документация:
@@ -11,6 +13,7 @@ About me
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
 </div>  
 
+---
 
 ### 🛠 Тестирование веб-приложений:
 <div>
@@ -19,12 +22,14 @@ About me
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div> 
 
+---
 
 ### 💾 Работа с данными:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
 </div>  
 
+---
 
 ### 📱 Тестирование мобильных приложений:
 
@@ -33,6 +38,7 @@ About me
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
 </div>  
 
+---
 
 ### ✏️ Работа с кодом:
 <div>
@@ -40,7 +46,7 @@ About me
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
 </div>
 
-
+---
 
 Follow me
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:menecmene@gmail.com)
